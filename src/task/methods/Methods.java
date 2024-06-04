@@ -93,7 +93,7 @@ public class Methods {
         int[] array1 = new int[array.length];
         /*for (int a = 0; a < array.length; a++) {
             array1[a] = array[a];
-
+fyhfuytf
         }*/
         System.arraycopy(array, 0, array1, 0, array.length);
         return array1;
